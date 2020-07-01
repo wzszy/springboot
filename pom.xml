@@ -36,7 +36,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.36</version>
+            <version>8.0.16</version>
         </dependency>
 
         <!-- 引入 spring-boot-starter-test 集成单元测试-->
